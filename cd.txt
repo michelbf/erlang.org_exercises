@@ -1,0 +1,4 @@
+cd("/Users/michelf/Google Drive/Documents/Cursos/programming/erlang/Erlang_Exercises_Star/")
+
+
+cd("/Users/miche/Google Drive/Documents/Cursos/programming/erlang/Erlang_Exercises_Star/")
